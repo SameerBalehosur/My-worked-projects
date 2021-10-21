@@ -1,0 +1,11 @@
+package com.te.anotherprojectspring.more;
+
+import org.springframework.context.annotation.Bean;
+
+public class SbConfig {
+	@Bean(name="book")
+	public Book getBook() {
+		return new Book() ;
+
+	}
+}

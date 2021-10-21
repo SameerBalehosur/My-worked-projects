@@ -1,0 +1,5 @@
+package com.jdbcproject.dao;
+
+public class User {
+
+}

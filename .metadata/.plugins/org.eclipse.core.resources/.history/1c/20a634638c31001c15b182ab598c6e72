@@ -1,0 +1,18 @@
+package com.springproject.assignment;
+import java.io.Serializable;
+import lombok.Data;
+@Data
+public class Personss implements Serializable,Address {
+	private int id;
+	private String name;
+	private String hno;
+	Address address;
+
+	@Override
+	public void details() {
+		String state;
+		int pincode;
+		String country;
+	}
+
+}

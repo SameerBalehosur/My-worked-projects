@@ -1,0 +1,5 @@
+package com.te.fullannotations;
+
+public class Address {
+private int hno;
+}

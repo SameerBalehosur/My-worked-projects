@@ -1,0 +1,18 @@
+package com.springproject.bean;
+import java.io.Serializable;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+//@Data
+@AllArgsConstructor
+public class Person implements Serializable {
+	public void setId(int id) {
+		this.id = id;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	private int id;
+	private String name;
+//	private Address address;
+}

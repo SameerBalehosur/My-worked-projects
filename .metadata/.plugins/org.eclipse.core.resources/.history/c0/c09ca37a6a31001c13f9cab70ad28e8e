@@ -1,0 +1,10 @@
+package com.springproject.main;
+
+public class AutoWireByconstTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

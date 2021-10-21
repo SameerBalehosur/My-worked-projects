@@ -1,0 +1,10 @@
+package com.technoelevate.hibernate.dto;
+
+public class UserImpl {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

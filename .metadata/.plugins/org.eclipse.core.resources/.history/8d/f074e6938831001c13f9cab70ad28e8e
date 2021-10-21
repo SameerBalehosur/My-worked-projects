@@ -1,0 +1,5 @@
+package com.springproject.assignment;
+
+public interface Address {
+
+}

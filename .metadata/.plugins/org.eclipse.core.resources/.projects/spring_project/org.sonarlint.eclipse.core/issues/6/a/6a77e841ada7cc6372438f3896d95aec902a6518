@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ãÉ‰ª8Æ—ÁºÉ/H–
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ãÉ‰ª8ƒ¸ù»É/H—
+RMAJORZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8²¶„¼É/H˜
+RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(œÜ²08´¯Ž¼É/Hš
+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+package com.te.anotherspring.examples;
+import java.io.Serializable;
+
+import org.springframework.stereotype.Component;
+
+import lombok.Data;
+@Data
+@Component("emp")
+public class Employe implements Serializable {
+private int id;
+private String name;
+
+}

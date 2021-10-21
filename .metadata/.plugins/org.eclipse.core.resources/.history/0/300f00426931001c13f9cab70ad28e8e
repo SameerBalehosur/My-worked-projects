@@ -1,0 +1,6 @@
+package com.springproject.bean;
+import java.io.Serializable;
+
+public class AutowireByCons implements Serializable {
+
+}

@@ -1,0 +1,6 @@
+package com.springproject.bean;
+
+public class ProtoTypeScope {
+private int id;
+
+}

@@ -1,0 +1,5 @@
+package com.springproject.bean;
+
+public class AutowireByCons {
+
+}

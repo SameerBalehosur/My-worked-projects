@@ -1,0 +1,23 @@
+package com.mavenproject.dao;
+
+public class Jspider implements Books {
+
+	@Override
+	public void sql() {
+		System.out.println("Jspider people using sql");
+
+	}
+
+	@Override
+	public void java() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void jdbc() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

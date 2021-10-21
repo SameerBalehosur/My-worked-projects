@@ -1,0 +1,11 @@
+package com.springproject.lifecycle;
+import java.io.Serializable;
+
+public class LifeCycle implements Serializable {
+private int id;
+private String name;
+
+public void init() {
+
+}
+}

@@ -1,0 +1,12 @@
+package com.te.fullannotations;
+
+import java.io.Serializable;
+
+public class Person implements Serializable {
+private int id;
+private String name;
+
+public void getDetails() {
+System.out.println("These are persons info---");
+}
+}

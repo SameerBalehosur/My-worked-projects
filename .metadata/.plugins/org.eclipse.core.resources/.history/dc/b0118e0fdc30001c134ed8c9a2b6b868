@@ -1,0 +1,23 @@
+package com.mavenproject.dao;
+
+public class TestYantra implements Books {
+
+	@Override
+	public void sql() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void java() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void jdbc() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

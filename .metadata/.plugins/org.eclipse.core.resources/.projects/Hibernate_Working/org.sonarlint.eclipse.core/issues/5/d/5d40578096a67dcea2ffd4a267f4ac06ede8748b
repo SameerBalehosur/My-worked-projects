@@ -1,0 +1,41 @@
+
+o
+java:S1854"7Remove this useless assignment to local variable "cnt".(•Ÿ°îûÿÿÿÿ8çÖÍÉÉ/HûRMAJORZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "user".(Ç­‚û8¬—ÀÌÉ/HüRMAJORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "nam" local variable.(©‘² 8ÎÊ¢ÌÉ/HıRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ğã“†ûÿÿÿÿ8ğÙÈÉÉ/HÿRMAJORZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "addr".(å¯‘8ı×ÊÉÉ/H€RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦‡Šò8çÖÍÉÉ/HRMAJORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "id" local variable.(ğÍÀÈùÿÿÿÿ8ğÙÈÉÉ/H‚RMINORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "cnt" local variable.(•Ÿ°îûÿÿÿÿ8çÖÍÉÉ/H„RMINORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(Ìğîùÿÿÿÿ8¬—ÀÌÉ/H†RMAJORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "user" local variable.(Ç­‚û8¬—ÀÌÉ/H‡RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«Õ‘›ûÿÿÿÿ8çÖÍÉÉ/H‰RMAJORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "addr" local variable.(å¯‘8çÖÍÉÉ/HŠRMINORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "id".(ğÍÀÈùÿÿÿÿ8ğÙÈÉÉ/HŒRMAJORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "nam".(©‘² 8çÖÍÉÉ/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–ÅÅØùÿÿÿÿ8ı×ÊÉÉ/HRMAJORZ
+CODE_SMELL

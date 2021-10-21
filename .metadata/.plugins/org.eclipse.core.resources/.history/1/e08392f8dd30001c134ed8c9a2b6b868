@@ -1,0 +1,13 @@
+package com.mavenproject.dao;
+
+import java.util.Scanner;
+
+public class DriverFactory {
+public static void use() {
+	
+	Scanner scanner=new Scanner(System.in);
+	System.out.println("This is a Employees implementation");
+	int n=scanner.nextInt();
+	
+}
+}

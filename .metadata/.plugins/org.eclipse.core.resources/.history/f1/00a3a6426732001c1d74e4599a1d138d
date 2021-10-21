@@ -1,0 +1,6 @@
+package com.te.anotherprojectspring.more;
+public class Book {
+public void sqlBook() {
+	System.out.println("All Tables of sql ");
+}
+}

@@ -1,0 +1,20 @@
+package com.mavenproject.dao;
+
+public class Employees implements Books {
+
+	@Override
+	public void sql() {
+
+	}
+
+	@Override
+	public void java() {
+
+	}
+
+	@Override
+	public void jdbc() {
+
+	}
+
+}

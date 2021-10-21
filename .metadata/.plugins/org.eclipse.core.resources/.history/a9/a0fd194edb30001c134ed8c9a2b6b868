@@ -1,0 +1,5 @@
+package com.mavenproject.dao;
+
+public interface Books {
+
+}

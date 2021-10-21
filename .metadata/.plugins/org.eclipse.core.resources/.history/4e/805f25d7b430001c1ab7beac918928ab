@@ -1,0 +1,9 @@
+package com.springproject.main;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}

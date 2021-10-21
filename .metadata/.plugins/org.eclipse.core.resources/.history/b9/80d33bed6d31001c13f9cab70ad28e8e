@@ -1,0 +1,9 @@
+package com.springproject.main;
+
+public class SingletonTest {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.jdbcproject.dao;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class User {
+public static void main(String[] args) {
+	try {
+		Class.forName("com.mysql.jdbc.Driver");
+		Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/employee?user=root&password=root");
+		Statement statement = connection.createStatement();
+		String qry="insert into virat values(3,'Maxwell',98,2017)";
+		int update = statement.executeUpdate(qry);
+		System.out.println("Data entered");
+	} catch (ClassNotFoundException | SQLException e) {
+		e.printStackTrace();
+	}
+}
+}

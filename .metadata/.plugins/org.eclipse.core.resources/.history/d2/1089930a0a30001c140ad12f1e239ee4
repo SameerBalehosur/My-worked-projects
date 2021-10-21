@@ -1,0 +1,8 @@
+package com.hibernateassignment.bean;
+
+import com.te.ibernate_assignment.Student;
+
+public class InsertImpl {
+Student student=new Student();
+
+}

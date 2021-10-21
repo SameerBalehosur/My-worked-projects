@@ -1,0 +1,14 @@
+package com.hibernateassignment.bean;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import com.te.ibernate_assignment.Student;
+
+public class InsertImpl {
+Student student=new Student();
+
+EntityManagerFactory factory=Persistence.createEntityManagerFactory("");
+
+
+}

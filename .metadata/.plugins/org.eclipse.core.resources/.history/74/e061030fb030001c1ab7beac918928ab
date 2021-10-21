@@ -1,0 +1,22 @@
+package com.springproject.bean;
+import java.io.Serializable;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+@Data
+//@AllArgsConstructor
+public class Employe implements Serializable {
+	private int id;
+	private String name;
+	
+	public Employe(int id, String name) {
+		this.id = id;
+		this.name = name;
+		System.out.println("constructor");
+	}
+	public Employe(String id, int name) {
+		this.id = id;
+		this.name = name;
+		System.out.println("constructor");
+	}
+}

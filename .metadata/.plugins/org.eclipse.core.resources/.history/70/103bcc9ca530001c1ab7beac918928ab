@@ -1,0 +1,11 @@
+package com.springproject.main;
+
+import org.springframework.beans.factory.BeanFactory;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		BeanFactory factory=
+	}
+
+}

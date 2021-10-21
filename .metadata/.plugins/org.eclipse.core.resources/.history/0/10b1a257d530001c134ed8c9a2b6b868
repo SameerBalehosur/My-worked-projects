@@ -1,0 +1,25 @@
+package com.jdbcproject.dao;
+
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class CallableImpl {
+
+	public static void main(String[] args) {
+		Scanner scanner=new Scanner(System.in);
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/employee?user=root&password=root");
+			CallableStatement call = connection.prepareCall("call mmm(1,'sam',3456)");
+			call.executeUpdate();
+			System.out.println("Data inserted");
+		} catch (ClassNotFoundException | SQLException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

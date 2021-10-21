@@ -1,0 +1,10 @@
+package com.mavenproject.dao;
+
+import java.util.Scanner;
+
+public class DriverFactory {
+	public void use() {
+		
+	}
+	
+}

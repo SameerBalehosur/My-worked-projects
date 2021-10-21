@@ -1,0 +1,21 @@
+package com.te.assignentanilma;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
+
+@Configuration
+public class AniConfig {
+
+	@Bean(name="dog")
+	public Animal getDOg() {
+		Dog dog=new Dog();
+		return dog;
+	}
+	@Bean(name="lio")
+	@Primary
+	public Animal getLion() {
+		Lion lion=new Lion();
+		return lion;
+		
+	}
+}

@@ -1,0 +1,10 @@
+
+‚
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8“şÕ—Ê/HÍRMINORZ
+CODE_SMELL
+c
+java:S1948"(Make "animal" transient or serializable.(¡¥ä•ùÿÿÿÿ8ÇµË–Ê/HÏRCRITICALZ
+CODE_SMELL
+…
+java:S1128"MRemove this unused import 'org.springframework.beans.factory.DisposableBean'.(¦ê«ªøÿÿÿÿ8¯ë“™Ê/HĞRMINORZ
+CODE_SMELL

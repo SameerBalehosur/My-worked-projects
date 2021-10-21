@@ -1,0 +1,16 @@
+package com.springproject.assignment;
+import java.io.Serializable;
+import lombok.Data;
+@Data
+public class Personss implements Serializable {
+	private int id;
+	private String name;
+	private String hno;
+
+	public void work() {
+		System.out.println("persons are working..");
+	}
+	public void read() {
+		System.out.println("persons are reading..");
+	}
+}

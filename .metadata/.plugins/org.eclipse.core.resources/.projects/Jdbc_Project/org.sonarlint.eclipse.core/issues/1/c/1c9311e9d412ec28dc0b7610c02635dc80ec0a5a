@@ -1,0 +1,23 @@
+
+}
+java:S2095"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ùÖÅÚ8—ıöÃÉ/HŠRBLOCKERZBUG
+s	java:S125"<This block of commented-out lines of code should be removed.(©€±úÿÿÿÿ8–®æÃÉ/HéRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼8–®æÃÉ/HàRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(î§ã¾ıÿÿÿÿ8—ıöÃÉ/HˆRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—€‚²ûÿÿÿÿ8ñøÖÃÉ/HÙRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ö¹´¸øÿÿÿÿ8—ıöÃÉ/H‰RMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8–®æÃÉ/HíRMINORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8¾½ÃÉ/H°RMAJORZ
+CODE_SMELL
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ã’•§8¥—•ÃÉ/H¶RBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…‘¸Áúÿÿÿÿ8—ıöÃÉ/H‡RMAJORZ
+CODE_SMELL

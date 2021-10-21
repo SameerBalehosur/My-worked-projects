@@ -1,0 +1,9 @@
+package com.working;
+
+import lombok.Data;
+
+@Data
+public class Subjects {
+	private int sname;
+
+}

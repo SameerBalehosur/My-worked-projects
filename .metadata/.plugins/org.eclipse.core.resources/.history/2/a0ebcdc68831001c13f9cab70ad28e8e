@@ -1,0 +1,6 @@
+package com.springproject.assignment;
+
+public interface Address {
+	void work();
+	void read();
+}

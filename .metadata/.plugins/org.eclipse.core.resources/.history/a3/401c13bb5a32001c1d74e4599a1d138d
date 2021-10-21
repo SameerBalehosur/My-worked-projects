@@ -1,0 +1,11 @@
+package com.te.fullannotations;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Address {
+	private int hno;
+
+	public void getAdd() {
+		System.out.println("This is address of persons");
+	}
+}

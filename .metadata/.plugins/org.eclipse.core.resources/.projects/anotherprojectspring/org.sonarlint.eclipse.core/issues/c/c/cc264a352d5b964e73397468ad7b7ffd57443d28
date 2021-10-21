@@ -1,0 +1,11 @@
+
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "lion".(şÍˆ‘8—Ï„™Ê/HÒRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Ï„“÷ùÿÿÿÿ8—Ï„™Ê/HÕRMAJORZ
+CODE_SMELL
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "dog".(ñŒß8—Ï„™Ê/HØRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¼ÚÛùÿÿÿÿ8—Ï„™Ê/HÛRMAJORZ
+CODE_SMELL

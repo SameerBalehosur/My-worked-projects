@@ -1,0 +1,7 @@
+package com.springproject.lifecycle;
+
+public class LifecycleTest {
+public static void main(String[] args) {
+	
+}
+}

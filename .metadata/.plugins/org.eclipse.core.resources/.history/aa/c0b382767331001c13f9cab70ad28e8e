@@ -1,0 +1,13 @@
+package com.springproject.bean;
+import java.io.Serializable;
+
+import lombok.Data;
+
+//@Data
+public class ProtoTypeScope implements Serializable {
+//private int id;
+//	public ProtoTypeScope() {
+//		
+//	}
+
+}

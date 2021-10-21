@@ -1,0 +1,6 @@
+
+—
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ΛΫόÿÿÿÿ8ΏΟΌ’Κ/HΞRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ε‘8νδ¶’Κ/HΛRMAJORZ
+CODE_SMELL

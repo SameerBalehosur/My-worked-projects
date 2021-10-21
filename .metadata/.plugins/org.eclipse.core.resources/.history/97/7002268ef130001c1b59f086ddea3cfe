@@ -1,0 +1,21 @@
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import lombok.Data;
+@Data
+@Entity
+@Table(name="Karnataka Users")
+public class User implements Serializable {
+	@Id
+	@Column(name="")
+	private int id;
+	private String name;
+	private String address;
+	private long contactno;
+	
+
+}

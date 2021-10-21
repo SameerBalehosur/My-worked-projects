@@ -1,0 +1,17 @@
+package com.springproject.assignment;
+
+public class AddrImpls implements Address {
+
+	@Override
+	public void getCity() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void getCountry() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

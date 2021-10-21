@@ -1,0 +1,19 @@
+package com.technoelevate.hibernate.dto;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import com.technoelevate.hibernate.dao.User;
+
+public class UserImpl {
+
+	public static void main(String[] args) {
+		User user=new User();
+		EntityManagerFactory factory=Persistence.createEntityManagerFactory("us");
+		EntityManager manager=factory.createEntityManager();
+		
+
+	}
+
+}
